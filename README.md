@@ -1,4 +1,4 @@
-# 모두의 쉐어포인트 데모 in Azure / SPDemo4Everyone
+# 모두의 쉐어포인트 데모 in Azure
 
 개요 : 
 목적 :
