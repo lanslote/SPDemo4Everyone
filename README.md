@@ -22,6 +22,8 @@
 ## 남은일 및 고려사항
 
 
-## 기타 정보
+## 사용도구
+* VSCODE
+* mRemoteNG
 * https://code.visualstudio.com/blogs/2021/06/10/remote-repositories 
 * https://app.diagrams.net/ 
