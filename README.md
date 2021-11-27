@@ -4,13 +4,11 @@
 
 ## 데모환경 요구사항
 1. [요구사항](1.Requirements)
-<hr/>
 
 ## 아키텍쳐 설계
 1. [서비스 아키텍쳐](2.Architecture/Architecture_Service.md)
 2. [하드웨어 아키텍쳐](2.Architecture/Architecture_Hardware.md)
 3. [소프트웨어 아키텍쳐](2.Architecture/Architecture_Software.md)
-<hr/>
 
 ## 데모환경 구성작업
 1. 준비사항 점검
@@ -18,16 +16,12 @@
 3. tjqj
 4. asdf
 5. asdfasdf
-<hr/>
 
 ## 데모시연
-<hr/>
 
 ## 남은일 및 고려사항
-<hr/>
 
 
 ## 기타 정보
 * https://code.visualstudio.com/blogs/2021/06/10/remote-repositories 
 * https://app.diagrams.net/ 
-<hr/>
