@@ -5,7 +5,9 @@
 1. [요구사항](1.Requirements)
 
 ## 아키텍쳐 설계
-이이이이
+1. [서비스 아키텍쳐](2.Architecture/Architecture_Service.md)
+2. [하드웨어 아키텍쳐](2.Architecture/Architecture_Hardware.md)
+3. [소프트웨어 아키텍쳐](2.Architecture/Architecture_Software.md)
 
 ## 데모환경 구성
 1. 준비사항 점검
