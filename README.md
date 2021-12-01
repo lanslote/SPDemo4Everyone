@@ -11,7 +11,7 @@
 3. [소프트웨어 아키텍쳐](2.Architecture/Architecture_Software.md)
 
 ## 데모환경 구성작업
-1. 준비
+1. [준비](3.Deployments/1.Preparations.md)
 > 1. 준비사항 점검
 > 2. 도메인 및 인증서 준비
 > 3. 네트워크 준비
