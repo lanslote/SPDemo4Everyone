@@ -17,10 +17,10 @@
 > 3. Virtual Network 준비
 > 4. Azure SQL Database Managed Instance 생성
 > 5. Azure Virtual Machine 생성
+> 6. AD 도메인 콘트롤러 설치
+> 7. AD 도메인 서버 조인
 
 2. 설치
-> 1. AD Domain 콘트롤러 설치
-> 2. AD Domain 서버 조인
 > 3. SharePoint Prerequisites 설치
 > 4. SharePoint 미디어 설치
 > 5. SharePoint 언어팩 설치
@@ -29,7 +29,7 @@
 > 8. Office Online 미디어 설치
 > 9. Office Online 언어팩 설치
 > 10. Office Online 업데이트 설치
-> 11. 인증서 설치
+> 11. SharePoint & Office Online 서버 인증서 설치
 
 3. 구성
 > 1. Azure SQL Database 권한 부여
@@ -38,6 +38,13 @@
 > 4. SharePoint 사이트 모음 생성
 > 5. Office Online 서버 팜 생성
 > 6. Office Online SharePoint 연동
+> 7. DNS 서버 등록
+
+4. (선택) 온프레미스-온라인 사용자 동기화 필요 시
+> 1. M365 커스텀 도메인 등록
+> 2. 도메인 사용자 UPN 변경 
+> 3. Azure AD Connect 미디어 설치
+> 9. 하이브리드 구성
 
 
 ## 데모시연
