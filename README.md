@@ -12,24 +12,24 @@
 
 ## 데모환경 구성작업
 1. [준비](3.Deployments/1.Preparations.md)
-> 1.1 준비사항 점검
-> 1.2 도메인 및 인증서 준비
-> 1.3 Virtual Network 준비
-> 1.4 Azure SQL Database Managed Instance 생성
-> 1.5 Azure Virtual Machine 생성
+> 1. 준비사항 점검
+> 2. 도메인 및 인증서 준비
+> 3. Virtual Network 준비
+> 4. Azure SQL Database Managed Instance 생성
+> 5. Azure Virtual Machine 생성
 
 2. 설치
-> 2.1 AD Domain 콘트롤러 설치
-> 2.2 AD Domain 서버 조인
-> 2.3 SharePoint Prerequisites 설치
-> 2.4 SharePoint 미디어 설치
-> 2.4 SharePoint 언어팩 설치
-> 2.5 SharePoint 업데이트 설치
-> 2.6 Office Online Prerequisites 설치
-> 2.7 Office Online 미디어 설치
-> 2.8 Office Online 언어팩 설치
-> 2.9 Office Online 업데이트 설치
-> 2.10 인증서 설치
+> 1. AD Domain 콘트롤러 설치
+> 2. AD Domain 서버 조인
+> 3. SharePoint Prerequisites 설치
+> 4. SharePoint 미디어 설치
+> 5. SharePoint 언어팩 설치
+> 6. SharePoint 업데이트 설치
+> 7. Office Online Prerequisites 설치
+> 8. Office Online 미디어 설치
+> 9. Office Online 언어팩 설치
+> 10. Office Online 업데이트 설치
+> 11. 인증서 설치
 
 3. 구성
 > 3.1 Azure SQL Database 권한 부여
