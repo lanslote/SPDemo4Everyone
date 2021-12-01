@@ -20,7 +20,7 @@
 > 6. AD 도메인 콘트롤러 설치
 > 7. AD 도메인 서버 조인
 
-2. 설치
+2. [설치](3.Deployments/2.Installation.md)
 > 3. SharePoint Prerequisites 설치
 > 4. SharePoint 미디어 설치
 > 5. SharePoint 언어팩 설치
@@ -31,7 +31,7 @@
 > 10. Office Online 업데이트 설치
 > 11. SharePoint & Office Online 서버 인증서 설치
 
-3. 구성
+3. [구성](3.Deployments/3.Configuration.md)
 > 1. Azure SQL Database 권한 부여
 > 2. SharePoint 서버 팜 구성
 > 3. SharePoint 웹 어플리케이션 생성
@@ -40,7 +40,7 @@
 > 6. Office Online SharePoint 연동
 > 7. DNS 서버 등록
 
-4. (선택) 온프레미스-온라인 사용자 동기화 필요 시
+4. [(선택) 온프레미스-온라인 사용자 동기화 필요 시](3.Deployments/4.Hybrid.md)
 > 1. M365 커스텀 도메인 등록
 > 2. 도메인 사용자 UPN 변경 
 > 3. Azure AD Connect 미디어 설치
