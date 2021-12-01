@@ -32,12 +32,12 @@
 > 11. 인증서 설치
 
 3. 구성
-> 3.1 Azure SQL Database 권한 부여
-> 3.2 SharePoint 서버 팜 구성
-> 3.3 SharePoint 웹 어플리케이션 생성
-> 3.4 SharePoint 사이트 모음 생성
-> 3.5 Office Online 서버 팜 생성
-> 3.6 Office Online SharePoint 연동
+> 1. Azure SQL Database 권한 부여
+> 2. SharePoint 서버 팜 구성
+> 3. SharePoint 웹 어플리케이션 생성
+> 4. SharePoint 사이트 모음 생성
+> 5. Office Online 서버 팜 생성
+> 6. Office Online SharePoint 연동
 
 
 ## 데모시연
