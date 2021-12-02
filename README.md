@@ -21,15 +21,15 @@
 > 7. AD 도메인 서버 조인
 
 2. [SharePoint Server 설치](3.Deployments/2.Installation.md)
-> 3. SharePoint Prerequisites 설치
-> 4. SharePoint 미디어 설치
-> 5. SharePoint 언어팩 설치
-> 6. SharePoint 업데이트 설치
-> 7. Office Online Prerequisites 설치
-> 8. Office Online 미디어 설치
-> 9. Office Online 언어팩 설치
-> 10. Office Online 업데이트 설치
-> 11. SharePoint & Office Online 서버 인증서 설치
+> 1. SharePoint Prerequisites 설치
+> 2. SharePoint 미디어 설치
+> 3. SharePoint 언어팩 설치
+> 4. SharePoint 업데이트 설치
+> 5. Office Online Prerequisites 설치
+> 6. Office Online 미디어 설치
+> 7. Office Online 언어팩 설치
+> 8. Office Online 업데이트 설치
+> 9. SharePoint & Office Online 서버 인증서 설치
 
 3. [SharePoint Server Farm 구성](3.Deployments/3.Configuration.md)
 > 1. Azure SQL Database 권한 부여
