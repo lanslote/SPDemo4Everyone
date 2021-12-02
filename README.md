@@ -20,7 +20,7 @@
 > 6. AD 도메인 콘트롤러 설치
 > 7. AD 도메인 서버 조인
 
-2. [설치](3.Deployments/2.Installation.md)
+2. [SharePoint Server 설치](3.Deployments/2.Installation.md)
 > 3. SharePoint Prerequisites 설치
 > 4. SharePoint 미디어 설치
 > 5. SharePoint 언어팩 설치
@@ -31,7 +31,7 @@
 > 10. Office Online 업데이트 설치
 > 11. SharePoint & Office Online 서버 인증서 설치
 
-3. [구성](3.Deployments/3.Configuration.md)
+3. [SharePoint Server Farm 구성](3.Deployments/3.Configuration.md)
 > 1. Azure SQL Database 권한 부여
 > 2. SharePoint 서버 팜 구성
 > 3. SharePoint 웹 어플리케이션 생성
@@ -46,6 +46,9 @@
 > 3. Azure AD Connect 미디어 설치
 > 9. 하이브리드 구성
 
+5. [웹서버 로드밸런싱 구성](3.Deployments/5.LoadBalancer.md)
+> 1. Azure에서 활용할 수 있는 HA 구성
+> 2. Azure LoadBalancer 구성
 
 ## 데모시연
 
