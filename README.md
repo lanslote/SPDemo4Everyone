@@ -7,8 +7,8 @@
 
 ## 아키텍쳐 설계
 1. [서비스 아키텍쳐](2.Architecture/Architecture_Service.md)
-2. [하드웨어 아키텍쳐](2.Architecture/Architecture_Hardware.md)
-3. [소프트웨어 아키텍쳐](2.Architecture/Architecture_Software.md)
+2. [하드웨어&소프트웨어 아키텍쳐](2.Architecture/Architecture_Hardware.md)
+3. [네트워크 아키텍쳐](2.Architecture/Architecture_Network.md)
 
 ## 데모환경 구성작업
 1. [준비](3.Deployments/1.Preparations.md)
