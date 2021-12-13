@@ -14,7 +14,7 @@
 1. [준비](3.Deployments/1.Preparations.md)
 2. [SharePoint Server 설치](3.Deployments/2.Installation.md)
 3. [SharePoint Server Farm 구성](3.Deployments/3.Configuration.md)
-4. [(선택) 온프레미스-온라인 사용자 동기화](3.Deployments/4.Hybrid.md)
+4. [SharePoint Hybrid 구성](3.Deployments/4.Hybrid.md)
 5. [웹서버 로드밸런싱 구성](3.Deployments/5.LoadBalancer.md)
 
 ## 데모시연
