@@ -17,11 +17,6 @@
 4. [SharePoint Hybrid 구성](3.Deployments/4.Hybrid.md)
 5. [웹서버 로드밸런싱 구성](3.Deployments/5.LoadBalancer.md)
 
-## 데모시연
-
-## 남은일 및 고려사항
-
-
 ## 사용도구
 * VSCODE
 * mRemoteNG
